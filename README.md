@@ -1,4 +1,4 @@
-# CDS 701: Tools of Data Science - Fall 2025 🧑‍💻
+# CDS 701: Tools of Data Science - Fall 2025 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange) ![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green)
 
@@ -6,5 +6,23 @@ This repository contains all homework assignments for **CDS 701: Tools of Data S
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
+
+fa2025_assignments/
+├─ homework01/ # Homework 1
+├─ homework02/ # Homework 2
+├─ homework03/ # Homework 3
+├─ .gitignore # Files to ignore in Git
+└─ README.md # This main file
+
+
+
+Each homework folder contains:
+- `*.ipynb` : Jupyter Notebook with solutions  
+- `README.md` (optional) : Brief description of the homework  
+
+---
+
+
+
 
