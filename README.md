@@ -31,7 +31,7 @@ Below is a summary of each completed assignment and the key topics covered.
 | :--- | :--- | :--- |
 | **Homework 01** | `homework01/` | **Data Manipulation & ML Intro:** Data loading, preprocessing, EDA with Pandas, and an introduction to model training/evaluation using Scikit-learn's Logistic Regression. |
 | **Homework 02** | `homework02/` | **Probability & Statistics:** Core concepts including conditional probability, random variables, common distributions (Binomial, Poisson, Gaussian), and distance metrics. |
-| **Homework 03** | `homework03/` | | **NumPy & Linear Algebra:** An introduction to `NumPy` for numerical computing, covering vector/matrix operations, broadcasting, and fundamental linear algebra concepts like matrix decompositions (Eigen, SVD). |
+| **Homework 03** | `homework03/` |  **NumPy & Linear Algebra:** An introduction to NumPy for numerical computing, covering vector/matrix operations, broadcasting, and fundamental linear algebra concepts like matrix decompositions (Eigen, SVD). |
 
 ---
 
